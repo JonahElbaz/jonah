@@ -1,0 +1,16 @@
+{
+  "brandId": 2,
+  "logo": "http://s3.amazonaws.com/betterboh/u/img/local/2/1589984577_logo.png",
+  "title": "Open Tender",
+  "description": "An open platform for restaurant innovation",
+  "colors": {
+    "colorPrimary": "#000000",
+    "colorSecondary": "#666666",
+    "colorLight": "#5a5aff",
+    "colorLinkHover": "#1ae2de",
+    "colorError": "#ef233c",
+    "bgColorPrimary": "#ffffff",
+    "bgColorSecondary": "#f5f7fa",
+    "bgColorTertiary": "#e4e9f2"
+  }
+}
